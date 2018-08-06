@@ -1,0 +1,3 @@
+service:
+  config:
+    location: tmp\exercise
