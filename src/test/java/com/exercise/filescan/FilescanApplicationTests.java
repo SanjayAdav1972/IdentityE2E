@@ -16,11 +16,7 @@ public class FilescanApplicationTests {
 
 	@Autowired
 	private FileScanService fileScanService;
-	
-	/*@Test
-	public void contextLoads() {
-	}*/
-	
+		
 	// Assessment Part 1
 	// 1. Scan configured directory in file system which will return this information -> filename, file mime type, file size, file extension
 	// 2. Use a directory containing a reasonably large number of files, minimum 10.
